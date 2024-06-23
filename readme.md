@@ -1,6 +1,6 @@
-#Learn about git and github
+# Learn about git and github
 Suscribe to me
 
-''' javascript
+'''javascript
 console.log("hello world");
 '''
